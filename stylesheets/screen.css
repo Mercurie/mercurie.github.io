@@ -147,8 +147,8 @@ header {
 header span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #242628;
-  border: 4px solid #242628;
+  background-color: #ece4d8;
+  border: 4px solid #ece4d8;
   padding: 2px;
   z-index: 1;
 }
@@ -175,7 +175,7 @@ header span.right-tail {
 }
 
 header h1 {
-  background-color: #242628;
+  background-color: #ece4d8;
   font-size: 2.5em;
   font-weight: 800;
   font-style: normal;
@@ -187,7 +187,7 @@ header h1 {
 }
 
 header h2 {
-  background-color: #242628;
+  background-color: #ece4d8;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #242628;
   padding-bottom: 14px;
